@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sineisbeauty
-- 👀 I’m interested in math and philosophy
-- 🌱 I’m currently learning highschool math 
+- 👀 I’m interested in math 
+- 🌱 I’m currently learning abstract algebra
 
 <!---
 sineisbeauty/sineisbeauty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
